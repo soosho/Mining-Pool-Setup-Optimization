@@ -18,16 +18,19 @@ Below is a comparison of the supported algorithms and features between **Yiimp**
 
 | Feature                          | **Yiimp**                                                                 | **Miningcore**                                                                 |
 |-----------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **Supported Algorithms**          | SHA-256, Scrypt, X11, X16R, X16S, X22i, Skein, Neoscrypt, and more | SHA-256, KawPoW, Ethash, RandomX, and more                   |
+| **Supported Algorithms**          | SHA-256, Scrypt, X11, X16R, X16S, X22i, Skein, Neoscrypt, and more ([Full List](https://github.com/soosho/Mining-Pool-Setup-Optimization/blob/main/yiimp-algo.md)) | SHA-256, KawPoW, Ethash, RandomX, and more ([Full List](https://github.com/soosho/Mining-Pool-Setup-Optimization/blob/main/miningcore-algo.md))                   |
 | **Performance Optimization**      | Basic optimizations                    | Advanced (real-time statistics and performance tuning) |
 | **Pool Scaling**                  | Moderate scalability                  | Highly scalable, designed for large-scale operations|
-| **Web UI**                        | Yes (customizable)                   | Yes (highly customizable, often integrated with ShadCN UI) |
+| **Web UI**                        | Yes (customizable, default front-end UI included)                   | No default UI (requires integration of external front-end like ShadCN UI) |
 | **Auto-Payout**                   | Yes                                      | Yes                                                 |
 | **Real-time Metrics**             | Yes (includes block tracking, hash rate tracking, miner stats) | Yes (real-time block data, hash rates, mining statistics, and more) |
 | **Cryptocurrency Support**        | Supports popular coins, customizable coin setups  | Supports popular and custom coins                   |
 | **Ease of Setup**                 | Moderate (manual configuration for complex setups) | Easy to set up (more automated, especially for standard configurations) |
 | **Customization**                 | High (supports custom coin integrations)   | High (customizable with ShadCN UI and other tools) |
-| **Community & Documentation**     | Strong community with long-standing support        | Growing community with rich documentation |
+| **ASIC Boost**                    | No support for ASIC Boost                | Supports ASIC Boost for improved performance on compatible hardware |
+| **Community & Documentation**     | Strong community with long-standing support, regularly updated documentation | Growing community, but limited active development and fewer updates to documentation |
+| **Merged Mining**                 | Yes (supports merged mining for multiple coins)                | No support for merged mining                |
+| **Auto Exchange**                 | Yes (supports auto exchange of mined coins to other cryptocurrencies)                | No support for auto exchange of coins                |
 
 ### Features Supported by Yiimp & Miningcore
 
