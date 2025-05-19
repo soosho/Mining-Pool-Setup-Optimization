@@ -42,18 +42,34 @@ Below is a comparison of the supported algorithms and features between **Yiimp**
 
 ## How It Works
 
-1. **Consultation**: I’ll help you decide which platform (**Yiimp** or **Miningcore**) is best suited for your needs.
-2. **Setup & Configuration**: I'll install and configure your mining pool to ensure all algorithms are supported and optimized for performance.
-3. **Ongoing Support**: Receive continued support for maintenance, troubleshooting, and future improvements.
-4. **Customization**: I’ll customize the web UI, algorithms, or payout system based on your specific requirements.
+1. **Consultation**  
+   I’ll help you decide which platform (**Yiimp** or **Miningcore**) is best suited for your needs.
+
+2. **Setup & Configuration**  
+   I'll install and configure your mining pool to ensure all algorithms are supported and optimized for performance.
+
+3. **Ongoing Support**  
+   Receive continued support for maintenance, troubleshooting, and future improvements.
+
+4. **Customization**  
+   I’ll customize the web UI, algorithms, or payout system based on your specific requirements.
+
+---
 
 ## Fiverr Service Details
 
-I offer a full range of services on Fiverr to set up and optimize your mining pool. You can view my profile for pricing, service details, and custom requests.
+I offer a full range of services on Fiverr to set up and optimize your mining pool.  
+View my profile for pricing, service details, and custom requests.
 
 👉 [Visit my Fiverr Profile](https://www.fiverr.com/riskihattala)
 
-### Why Get This Service?
+---
+
+## 📬 Contact
+
+Feel free to reach out on Telegram for inquiries or direct communication:  
+**[https://t.me/Sooxu_0](https://t.me/Sooxu_0)**
+
 
 - **Maximize Your Mining Profits**: Improve pool efficiency and profitability.
 - **Hassle-Free Setup**: I handle the entire setup and configuration process.
