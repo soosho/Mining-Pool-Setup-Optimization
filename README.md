@@ -68,7 +68,7 @@ View my profile for pricing, service details, and custom requests.
 ## 📬 Contact
 
 Feel free to reach out on Telegram for inquiries or direct communication:  
-**[https://t.me/Sooxu_0](https://t.me/Sooxu_0)**
+**https://t.me/soosho_dev**
 
 
 - **Maximize Your Mining Profits**: Improve pool efficiency and profitability.
